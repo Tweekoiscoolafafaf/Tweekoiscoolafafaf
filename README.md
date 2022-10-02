@@ -1,9 +1,15 @@
-<h1 align="center">Hi 👋, I'm Tweekoiscoolafafaf</h1>
-<h3 align="center">I am indeed cool af</h3>
+### Hi there 👋, Tweekoiscool
+![](https://pbs.twimg.com/profile_banners/1501273532734574604/1664740148/1080x360)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+Im interested in twitch bots, view bots, token gens
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Skills: PYTHON / REQUESTS
+
+- 🔭 I’m currently working on GUILDED account gen 
+- 📫 How to reach me: Tweeko#9344 on discord 
+- 😄 Pronouns: He/him 
+- ⚡ Fun fact: I'm a very good coder 
+
+
+
+
